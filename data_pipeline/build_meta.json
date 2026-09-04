@@ -1,9 +1,9 @@
 {
-  "built_at": "2026-08-31T07:58:00Z",
-  "last_arxiv_at": "2026-08-31T07:58:00Z",
-  "last_s2_at": "2026-07-21T05:33:09Z",
-  "corpus_size": 129660,
-  "faiss_ntotal": 182469,
-  "db_size_bytes": 286920704,
+  "built_at": "2026-09-04T07:01:12Z",
+  "last_arxiv_at": "2026-09-04T06:50:56Z",
+  "last_s2_at": "2026-09-04T07:01:12Z",
+  "corpus_size": 134232,
+  "faiss_ntotal": 188334,
+  "db_size_bytes": 297562112,
   "schema_version": 1
 }
